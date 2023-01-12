@@ -414,7 +414,7 @@
 
                         <!-- ============================================== Testimonials: END ============================================== -->
 
-                        @*<div class="home-banner"> <img src="assets\images\banners\LHS-banner.jpg" alt="Image"> </div>*@
+                        <div class="home-banner"> <img src="assets\images\banners\LHS-banner.jpg" alt="Image"> </div>
                     </div>
                     <!-- /.sidebar-filter -->
                 </div>
@@ -536,7 +536,7 @@
                                                     <!-- /.product-image -->
 
                                                     <div class="product-info text-left">
-                                                        <h3 class="name"><a href="detail.html">@Html.DisplayFor(modelItem => item.nameprd)</a></h3>
+                                                        <h3 class="name"><a asp-area="" asp-controller="Home" asp-action="detail">@Html.DisplayFor(modelItem => item.nameprd)</a></h3>
                                                         <div class="rating rateit-small"></div>
                                                         <div class="description"></div>
                                                         <div class="product-price"> <span class="price"> $ @Html.DisplayFor(modelItem => item.price) </span> @*<span class="price-before-discount">$ @Html.DisplayFor(modelItem => item.price)</span> *@ </div>
@@ -591,8 +591,8 @@
                                                     <!-- /.col -->
                                                     <div class="col col-sm-8 col-lg-8">
                                                         <div class="product-info">
-                                                            <h3 class="name"><a href="detail.html">@Html.DisplayFor(modelItem => item.nameprd)</a></h3>
-                                                            <div class="rating rateit-small"></div>
+                                                            <h3 class="name"><a asp-area="" asp-controller="Home" asp-action="detail">@Html.DisplayFor(modelItem => item.nameprd)</a></h3>
+                                                            @*<div class="rating rateit-small"></div>*@
                                                             <div class="product-price"> <span class="price"> $ @Html.DisplayFor(modelItem => item.price)</span> @*<span class="price-before-discount">$ @Html.DisplayFor(modelItem => item.price) </span>*@ </div>
                                                             <!-- /.product-price -->
                                                             <div class="description m-t-10">@Html.DisplayFor(modelItem => item.description)</div>

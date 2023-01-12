@@ -2,7 +2,7 @@
     <div class="container">
         <div class="breadcrumb-inner">
             <ul class="list-inline list-unstyled">
-                <li><a href="home.html">Home</a></li>
+                <li><a asp-controller="Home" asp-action="Index">Home</a></li>
                 <li class='active'>Wishlist</li>
             </ul>
         </div><!-- /.breadcrumb-inner -->
@@ -146,17 +146,4 @@
         </div><!-- /.logo-slider -->
         <!-- ============================================== BRANDS CAROUSEL : END ============================================== -->
     </div><!-- /.container -->
-    <script>$(document).ready(function(){
-			$(".changecolor").switchstylesheet( { seperator:"color"} );
-			$('.show-theme-options').click(function(){
-				$(this).parent().toggleClass('open');
-				return false;
-			});
-		});
-
-		$(window).bind("load", function() {
-		   $('.show-theme-options').delay(2000).trigger('click');
-		});</script>
-    <!-- For demo purposes – can be removed on production : End -->
-
-</div>
+</div><!-- /.body-content -->

@@ -15,7 +15,7 @@ public class HomeController : Controller
     {
         _context = context;
     }
-
+    //home 
     public IActionResult Index()
     {
         var products = _context.Products.AsQueryable();
@@ -29,12 +29,7 @@ public class HomeController : Controller
         return View(viewModel);
     }
 
-
-    public IActionResult Privacy()
-    {
-        return View();
-    }
-
+    //danh muc san pham
     public IActionResult Category()
     {
         var products = _context.Products.ToList();
@@ -48,13 +43,20 @@ public class HomeController : Controller
 
         return View(viewModel);
     }
-
-    public IActionResult Search_product(string searchString)
+    //tìm kiếm sản phẩm 
+    public IActionResult Search_product(string searchString,float? price)
     {
         var products = _context.Products.AsQueryable();
-        if (!string.IsNullOrEmpty(searchString))
+        char[] chartotrim = { ' ','*' };
+        
+        if (!string.IsNullOrEmpty(searchString.Trim()))
         {
+            searchString = searchString.Trim();
             products = products.Where(p => p.nameprd!.Contains(searchString) || p.namectg!.Contains(searchString));
+        }
+        if (price.HasValue)
+        {
+            products = products.Where(e => e.price >= price);
         }
         var categories = _context.Categorys.ToList();
         var viewModel = new ViewData
@@ -65,7 +67,11 @@ public class HomeController : Controller
 
         return View(viewModel);
     }
-
+    //tìm kiếm sản phẩm end
+    public IActionResult Privacy()
+    {
+        return View();
+    }
     public IActionResult error()
     {
         return View();

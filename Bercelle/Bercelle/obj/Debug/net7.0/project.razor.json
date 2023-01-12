@@ -16670,6 +16670,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/huy/Projects/Bercelle/Bercelle/Views/Home/my_wishlist.cshtml",
+      "TargetPath": "Views\\Home\\my_wishlist.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/huy/Projects/Bercelle/Bercelle/Views/_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
