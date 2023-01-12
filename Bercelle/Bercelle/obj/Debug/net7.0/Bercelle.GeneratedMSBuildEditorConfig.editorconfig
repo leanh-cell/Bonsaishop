@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bercelle
+build_property.RootNamespace = Bercelle
+build_property.ProjectDir = /Users/huy/Projects/Bercelle/Bercelle/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/huy/Projects/Bercelle/Bercelle
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Berceller/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmVyY2VsbGVyL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Berceller/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmVyY2VsbGVyL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Berceller/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmVyY2VsbGVyL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Berceller/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmVyY2VsbGVyL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Berceller/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmVyY2VsbGVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9ibG9nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/blog_details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9ibG9nX2RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9kZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9lcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9mYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/Search_product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TZWFyY2hfcHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/shopping_cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zaG9wcGluZ19jYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/sign_in.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9zaWduX2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/terms_conditions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS90ZXJtc19jb25kaXRpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Home/track_orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS90cmFja19vcmRlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/huy/Projects/Bercelle/Bercelle/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y2x8nlta13

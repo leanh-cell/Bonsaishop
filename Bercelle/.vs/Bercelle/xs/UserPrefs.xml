@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{05056057-1688-43B6-955E-EE3B74A67FE4}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bercelle/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="Bercelle/Models/Admin.cs" />
+      <File FileName="Bercelle/Models/Cart.cs" />
+      <File FileName="Bercelle/Models/Category.cs" />
+      <File FileName="Bercelle/Models/Customer.cs" />
+      <File FileName="Bercelle/Models/OrderDatail.cs" />
+      <File FileName="Bercelle/Models/Product.cs" />
+      <File FileName="Bercelle/Data/BercelleContext.cs" />
+      <File FileName="Bercelle/Models/ErrorViewModel.cs" />
+      <File FileName="Bercelle/appsettings.json" />
+      <File FileName="Bercelle/Program.cs" Line="47" Column="1" />
+      <File FileName="Bercelle/Controllers/BercellerController.cs" Line="67" Column="32" />
+      <File FileName="Bercelle/Data/DbInitializer.cs" />
+      <File FileName="Bercelle/Views/Berceller/Details.cshtml" />
+      <File FileName="Bercelle/Views/Berceller/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Bercelle/Views/Berceller/Create.cshtml" />
+      <File FileName="Bercelle/Views/Shared/_Layout.cshtml" Line="377" Column="14" />
+      <File FileName="Bercelle/Views/Home/Index.cshtml" Line="1146" Column="13" />
+      <File FileName="Bercelle/Controllers/HomeController.cs" Line="41" Column="30" />
+      <File FileName="Bercelle/Views/Shared/_Layout.cshtml.css" />
+      <File FileName="Bercelle/wwwroot/css/site.css" />
+      <File FileName="Bercelle/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Bercelle/Views/Home/Category.cshtml" Line="591" Column="33" />
+      <File FileName="Bercelle/Views/Home/product_comparison.cs" Line="170" Column="38" />
+      <File FileName="Bercelle/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Bercelle/Views/Home/404_html.cshtml" Line="17" Column="1" />
+      <File FileName="Bercelle/Views/Home/blog_details.cshtml" Line="28" Column="74" />
+      <File FileName="Bercelle/Views/Home/checkout.cshtml" Line="267" Column="7" />
+      <File FileName="Bercelle/Views/Home/contact.cshtml" Line="165" Column="7" />
+      <File FileName="Bercelle/Views/Home/detail.cshtml" Line="1086" Column="1" />
+      <File FileName="Bercelle/Views/Home/faq.cshtml" Line="32" Column="1" />
+      <File FileName="Bercelle/Views/Home/my_wishlist.html" Line="161" Column="1" />
+      <File FileName="Bercelle/Views/Home/shopping_cart.cshtml" Line="291" Column="7" />
+      <File FileName="Bercelle/Views/Home/sign_in.cshtml" Line="156" Column="15" />
+      <File FileName="Bercelle/Views/Home/terms_conditions.cshtml" Line="123" Column="15" />
+      <File FileName="Bercelle/Views/Home/track_orders.cshtml" Line="114" Column="7" />
+      <File FileName="Bercelle/Views/Home/blog.cshtml" Line="333" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Bercelle" expanded="True">
+            <Node name="Bercelle" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Berceller" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Bercelle PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
